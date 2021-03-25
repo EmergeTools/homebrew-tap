@@ -1,5 +1,5 @@
 class Archivethin < Formula
-  desc "Thin 32bit architecture form iOS archives"
+  desc "Thin 32bit architecture from iOS archives"
   homepage "https://github.com/EmergeTools/ArchiveThin"
   url "https://github.com/EmergeTools/ArchiveThin.git",
       :tag => "0.0.1"
