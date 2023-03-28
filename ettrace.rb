@@ -2,7 +2,7 @@ class Ettrace < Formula
   desc "Easily and accurately profile iOS apps"
   homepage "https://github.com/EmergeTools/ETTrace"
   url "https://github.com/EmergeTools/ETTrace/releases/download/v0.1/ETTraceRunner"
-  sha256 "aa916eca00ad1431fb0ca15b5c7edf34c664072bf36d8d0491e52a7c434f77a0"
+  sha256 "2fd61f34c0157f6e6cc8e04f65c50e93d51c7422cc64cd8ff0b15509ba14998b"
   license "MIT"
 
   def install
