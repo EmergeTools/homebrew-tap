@@ -5,8 +5,10 @@ class Ettrace < Formula
   sha256 "824f989714b17430486d527cd1dc970e78f46bac33e54d7782298822f70a6bd4"
   license "MIT"
 
-
   def install
-    system "./configure", *std_configure_args, "--disable-silent-rules"
+    bin.install "ETTraceRunner" => "ettrace"
+  end
+
+  def test
   end
 end
